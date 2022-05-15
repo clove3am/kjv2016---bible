@@ -1,4 +1,4 @@
-# kjv2016 [![AUR](https://img.shields.io/badge/AUR-kjv2016--git-blue.svg)](https://aur.archlinux.org/packages/kjv2016-git/)
+# kjv2016
 
 Read the Word of God from your terminal
 
@@ -35,8 +35,6 @@ Read the Word of God from your terminal
 
 kjv2016 can be built by cloning the repository and then running make:
 
-    git clone https://github.com/bontibon/kjv2016.git
-    cd kjv2016
     make
 
 ## License
